@@ -1,3 +1,8 @@
+# Let the Margin SlidE± for Knowledge GraphEmbeddings via a Correntropy Objective Function
+
+In this work, we provide the details and codes for a family of loss functions dubbed SlidE±. The implementation of this loss function is based on RotatE model which you see its introduction (original ReadMe) below and the original codes are available in its corresponsing folder. In order to reproduce our model or reuse our codes, please see folder SlidE. 
+The formulation of the proposed loss functions enables an automated technique to adjust the length of the margin adoptive to a defined center.
+
 
 # RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space
 **Introduction**
