@@ -1,7 +1,7 @@
 
-# SpacE^SS
+# SpacESS
 
-To run: bash run.sh grid model dataset cpu-id logfile-name batchsize dimension gamma temperature lr test-batch-size -de (if using RotatE or SpacE^SS as model)
+To run: bash run.sh grid model dataset cpu-id logfile-name batchsize dimension gamma temperature lr test-batch-size -de (if using RotatE or SpacESS as model)
 
 To add rules: just add --inv, --impl, --eq or --sym (or any combination of them)
 
